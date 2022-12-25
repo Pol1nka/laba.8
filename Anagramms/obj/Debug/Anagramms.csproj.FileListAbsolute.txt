@@ -5,3 +5,10 @@ C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.csproj.Su
 C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.csproj.CoreCompileInputs.cache
 C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.exe
 C:\Users\Pol1nka\RiderProjects\Anagramms\Anagramms\obj\Debug\Anagramms.pdb
+D:\RiderProjects\laba.8\Anagramms\bin\Debug\Anagramms.exe
+D:\RiderProjects\laba.8\Anagramms\bin\Debug\Anagramms.pdb
+D:\RiderProjects\laba.8\Anagramms\obj\Debug\Anagramms.csproj.AssemblyReference.cache
+D:\RiderProjects\laba.8\Anagramms\obj\Debug\Anagramms.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\laba.8\Anagramms\obj\Debug\Anagramms.csproj.CoreCompileInputs.cache
+D:\RiderProjects\laba.8\Anagramms\obj\Debug\Anagramms.exe
+D:\RiderProjects\laba.8\Anagramms\obj\Debug\Anagramms.pdb
